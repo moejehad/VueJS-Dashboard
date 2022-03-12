@@ -1,4 +1,4 @@
-# cue
+# VueJS Dashboard
 
 ## Project setup
 ```
